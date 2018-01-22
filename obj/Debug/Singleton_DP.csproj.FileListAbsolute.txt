@@ -1,0 +1,6 @@
+H:\practice\cao\Singleton_DP\bin\Debug\Singleton_DP.exe.config
+H:\practice\cao\Singleton_DP\obj\Debug\Singleton_DP.csprojResolveAssemblyReference.cache
+H:\practice\cao\Singleton_DP\bin\Debug\Singleton_DP.exe
+H:\practice\cao\Singleton_DP\bin\Debug\Singleton_DP.pdb
+H:\practice\cao\Singleton_DP\obj\Debug\Singleton_DP.exe
+H:\practice\cao\Singleton_DP\obj\Debug\Singleton_DP.pdb
